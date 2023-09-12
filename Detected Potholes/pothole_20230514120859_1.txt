@@ -1,0 +1,7 @@
+Name: pothole_20230514120859_1.jpg
+Class: Pothole
+Latitude: 18.040196441998056
+Longitude: -76.79026589057817
+Date: 2023-05-14
+Time: 12:08
+Location: Heathwood Drive

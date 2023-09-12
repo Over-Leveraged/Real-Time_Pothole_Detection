@@ -1,0 +1,7 @@
+Name: pothole_20230514133126_1.jpg
+Class: Pothole
+Latitude: 18.0311588219361
+Longitude: -76.7771492538588
+Date: 2023-05-14
+Time: 13:31
+Location: Barbican Road

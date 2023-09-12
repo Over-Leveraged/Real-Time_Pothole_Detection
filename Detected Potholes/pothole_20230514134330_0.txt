@@ -1,0 +1,7 @@
+Name: pothole_20230514134330_0.jpg
+Class: Pothole
+Latitude: 18.017480423428303
+Longitude: -76.76051759638948
+Date: 2023-05-14
+Time: 13:43
+Location: Mona Road

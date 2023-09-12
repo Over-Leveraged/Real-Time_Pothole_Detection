@@ -1,0 +1,7 @@
+Name: pothole_20230514122628_0.jpg
+Class: Pothole
+Latitude: 18.02692200759187
+Longitude: -76.75571565912418
+Date: 2023-05-14
+Time: 12:26
+Location: New Haven Avenue

@@ -1,0 +1,7 @@
+Name: pothole_20230514122638_0.jpg
+Class: Pothole
+Latitude: 18.001808303715066
+Longitude: -76.76409826070234
+Date: 2023-05-14
+Time: 12:26
+Location: Shenstone Drive

@@ -1,0 +1,7 @@
+Name: pothole_20230514122141_1.jpg
+Class: Pothole
+Latitude: 18.026580169755096
+Longitude: -76.77095844878643
+Date: 2023-05-14
+Time: 12:21
+Location: Liguanea Avenue

@@ -1,0 +1,7 @@
+Name: pothole_20230514122342_0.jpg
+Class: Pothole
+Latitude: 18.031097883184337
+Longitude: -76.75838356449974
+Date: 2023-05-14
+Time: 12:23
+Location: Millsborough Crescent

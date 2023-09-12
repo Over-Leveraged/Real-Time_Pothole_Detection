@@ -1,0 +1,7 @@
+Name: pothole_20230514122645_0.jpg
+Class: Pothole
+Latitude: 18.015303974239963
+Longitude: -76.75959302180111
+Date: 2023-05-14
+Time: 12:26
+Location: Wellington Drive

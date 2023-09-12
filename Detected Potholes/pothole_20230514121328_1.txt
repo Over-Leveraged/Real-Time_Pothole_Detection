@@ -1,0 +1,7 @@
+Name: pothole_20230514121328_1.jpg
+Class: Pothole
+Latitude: 18.00518219923571
+Longitude: -76.78068288342934
+Date: 2023-05-14
+Time: 12:13
+Location: Brompton Road

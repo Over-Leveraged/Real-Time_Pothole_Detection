@@ -1,0 +1,7 @@
+Name: pothole_20230514121259_0.jpg
+Class: Pothole
+Latitude: 18.04191250678935
+Longitude: -76.78600619871305
+Date: 2023-05-14
+Time: 12:12
+Location: Shortwood Road

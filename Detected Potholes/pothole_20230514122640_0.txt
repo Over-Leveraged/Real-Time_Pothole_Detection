@@ -1,0 +1,7 @@
+Name: pothole_20230514122640_0.jpg
+Class: Pothole
+Latitude: 18.029916847724795
+Longitude: -76.78957361524563
+Date: 2023-05-14
+Time: 12:26
+Location: Morgan Lane

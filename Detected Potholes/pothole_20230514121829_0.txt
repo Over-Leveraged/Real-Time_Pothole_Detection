@@ -1,0 +1,7 @@
+Name: pothole_20230514121829_0.jpg
+Class: Pothole
+Latitude: 18.00909609715855
+Longitude: -76.77671700471156
+Date: 2023-05-14
+Time: 12:18
+Location: Fairway Avenue

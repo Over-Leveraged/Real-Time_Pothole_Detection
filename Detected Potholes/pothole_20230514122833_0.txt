@@ -1,0 +1,7 @@
+Name: pothole_20230514122833_0.jpg
+Class: Pothole
+Latitude: 18.042415353061195
+Longitude: -76.77423548774814
+Date: 2023-05-14
+Time: 12:28
+Location: Graham Close

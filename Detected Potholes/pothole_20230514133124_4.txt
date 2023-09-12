@@ -1,0 +1,7 @@
+Name: pothole_20230514133124_4.jpg
+Class: Pothole
+Latitude: 18.01661516833288
+Longitude: -76.76497753812264
+Date: 2023-05-14
+Time: 13:31
+Location: Bamboo Avenue

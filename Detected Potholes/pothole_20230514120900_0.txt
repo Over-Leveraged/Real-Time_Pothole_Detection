@@ -1,0 +1,7 @@
+Name: pothole_20230514120900_0.jpg
+Class: Pothole
+Latitude: 18.006205705469142
+Longitude: -76.7735427707145
+Date: 2023-05-14
+Time: 12:09
+Location: Roosevelt Avenue

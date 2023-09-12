@@ -1,0 +1,7 @@
+Name: pothole_20230514133744_0.jpg
+Class: Pothole
+Latitude: 18.042122423477153
+Longitude: -76.7728766788807
+Date: 2023-05-14
+Time: 13:37
+Location: Graham Heights

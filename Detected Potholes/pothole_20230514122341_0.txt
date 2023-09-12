@@ -1,0 +1,7 @@
+Name: pothole_20230514122341_0.jpg
+Class: Pothole
+Latitude: 18.03809911705963
+Longitude: -76.78563909346906
+Date: 2023-05-14
+Time: 12:23
+Location: Arcadia Boulevard

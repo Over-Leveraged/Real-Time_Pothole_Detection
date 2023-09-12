@@ -1,0 +1,7 @@
+Name: pothole_20230514122137_0.jpg
+Class: Pothole
+Latitude: 18.021264822910805
+Longitude: -76.74643312826997
+Date: 2023-05-14
+Time: 12:21
+Location: Old Hope Road

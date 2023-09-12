@@ -1,0 +1,7 @@
+Name: pothole_20230514121643_0.jpg
+Class: Pothole
+Latitude: 18.003275505451963
+Longitude: -76.76174158848147
+Date: 2023-05-14
+Time: 12:16
+Location: East Mountain Pride Boulevard

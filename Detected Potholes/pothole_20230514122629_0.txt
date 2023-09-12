@@ -1,0 +1,7 @@
+Name: pothole_20230514122629_0.jpg
+Class: Pothole
+Latitude: 18.030421272465617
+Longitude: -76.76612561578932
+Date: 2023-05-14
+Time: 12:26
+Location: Millsborough Avenue

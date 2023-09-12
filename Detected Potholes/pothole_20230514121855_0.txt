@@ -1,0 +1,7 @@
+Name: pothole_20230514121855_0.jpg
+Class: Pothole
+Latitude: 18.005268099074673
+Longitude: -76.77076121662948
+Date: 2023-05-14
+Time: 12:18
+Location: Crieffe Road

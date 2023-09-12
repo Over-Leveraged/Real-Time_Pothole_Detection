@@ -1,0 +1,7 @@
+Name: pothole_20230514133526_0.jpg
+Class: Pothole
+Latitude: 18.03680627270918
+Longitude: -76.76423027075255
+Date: 2023-05-14
+Time: 13:35
+Location: Ridgeway Terrace

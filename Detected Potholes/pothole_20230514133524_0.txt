@@ -1,0 +1,7 @@
+Name: pothole_20230514133524_0.jpg
+Class: Pothole
+Latitude: 18.025506806791086
+Longitude: -76.78121521557985
+Date: 2023-05-14
+Time: 13:35
+Location: East Kings House Road

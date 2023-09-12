@@ -1,0 +1,7 @@
+Name: pothole_20230514133305_0.jpg
+Class: Pothole
+Latitude: 18.02531071679483
+Longitude: -76.7572039606185
+Date: 2023-05-14
+Time: 13:33
+Location: Widcombe Drive

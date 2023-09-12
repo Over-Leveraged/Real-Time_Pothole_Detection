@@ -1,0 +1,7 @@
+Name: pothole_20230514122704_1.jpg
+Class: Pothole
+Latitude: 18.01662484281383
+Longitude: -76.77689820961672
+Date: 2023-05-14
+Time: 12:27
+Location: Hillcrest Avenue

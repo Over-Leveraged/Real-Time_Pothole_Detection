@@ -1,0 +1,7 @@
+Name: pothole_20230514122341_2.jpg
+Class: Pothole
+Latitude: 18.01479014882799
+Longitude: -76.7755056984864
+Date: 2023-05-14
+Time: 12:23
+Location: Montrose Road

@@ -1,0 +1,7 @@
+Name: pothole_20230514120840_0.jpg
+Class: Pothole
+Latitude: 18.033605986848727
+Longitude: -76.74525455112712
+Date: 2023-05-14
+Time: 12:08
+Location: Skyline Drive

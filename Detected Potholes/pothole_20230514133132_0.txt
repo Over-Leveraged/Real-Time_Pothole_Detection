@@ -1,0 +1,7 @@
+Name: pothole_20230514133132_0.jpg
+Class: Pothole
+Latitude: 18.032883501792785
+Longitude: -76.77752687903539
+Date: 2023-05-14
+Time: 13:31
+Location: Ford Pen Lane

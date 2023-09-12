@@ -1,0 +1,7 @@
+Name: pothole_20230514122138_0.jpg
+Class: Pothole
+Latitude: 18.040622113534383
+Longitude: -76.78848087719294
+Date: 2023-05-14
+Time: 12:21
+Location: Allerdyce Road

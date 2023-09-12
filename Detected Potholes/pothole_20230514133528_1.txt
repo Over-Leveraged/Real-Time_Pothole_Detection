@@ -1,0 +1,7 @@
+Name: pothole_20230514133528_1.jpg
+Class: Pothole
+Latitude: 17.999455936388852
+Longitude: -76.78683759309729
+Date: 2023-05-14
+Time: 13:35
+Location: Ripon Road

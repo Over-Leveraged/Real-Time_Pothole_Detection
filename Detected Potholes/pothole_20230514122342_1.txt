@@ -1,0 +1,7 @@
+Name: pothole_20230514122342_1.jpg
+Class: Pothole
+Latitude: 18.02061228197611
+Longitude: -76.78400179289234
+Date: 2023-05-14
+Time: 12:23
+Location: Hope Road

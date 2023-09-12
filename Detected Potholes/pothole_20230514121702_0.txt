@@ -1,0 +1,7 @@
+Name: pothole_20230514121702_0.jpg
+Class: Pothole
+Latitude: 18.024421673437796
+Longitude: -76.74849803354591
+Date: 2023-05-14
+Time: 12:17
+Location: Gibson Close

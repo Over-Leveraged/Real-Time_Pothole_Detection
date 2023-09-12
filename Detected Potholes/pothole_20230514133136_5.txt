@@ -1,0 +1,7 @@
+Name: pothole_20230514133136_5.jpg
+Class: Pothole
+Latitude: 18.02336871200484
+Longitude: -76.79194418674672
+Date: 2023-05-14
+Time: 13:31
+Location: Annette Crescent

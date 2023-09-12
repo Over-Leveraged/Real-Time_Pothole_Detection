@@ -1,0 +1,7 @@
+Name: pothole_20230514133530_0.jpg
+Class: Pothole
+Latitude: 18.005134248686666
+Longitude: -76.78505899411809
+Date: 2023-05-14
+Time: 13:35
+Location: Haining Road

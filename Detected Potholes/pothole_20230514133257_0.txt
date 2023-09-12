@@ -1,0 +1,7 @@
+Name: pothole_20230514133257_0.jpg
+Class: Pothole
+Latitude: 18.020040625556458
+Longitude: -76.77376144882847
+Date: 2023-05-14
+Time: 13:32
+Location: Donhead Avenue

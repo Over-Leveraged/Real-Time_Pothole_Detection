@@ -1,0 +1,7 @@
+Name: pothole_20230514122340_1.jpg
+Class: Pothole
+Latitude: 18.006502170901165
+Longitude: -76.77766744809665
+Date: 2023-05-14
+Time: 12:23
+Location: Windsor Avenue

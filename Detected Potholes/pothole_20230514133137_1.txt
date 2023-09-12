@@ -1,0 +1,7 @@
+Name: pothole_20230514133137_1.jpg
+Class: Pothole
+Latitude: 18.025159855643555
+Longitude: -76.75873169532807
+Date: 2023-05-14
+Time: 13:31
+Location: Widcombe Crescent

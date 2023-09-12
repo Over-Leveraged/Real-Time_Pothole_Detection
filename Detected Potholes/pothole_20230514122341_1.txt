@@ -1,0 +1,7 @@
+Name: pothole_20230514122341_1.jpg
+Class: Pothole
+Latitude: 18.0315478055639
+Longitude: -76.77130721595827
+Date: 2023-05-14
+Time: 12:23
+Location: Wiggon Loop

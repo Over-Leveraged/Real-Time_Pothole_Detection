@@ -1,0 +1,7 @@
+Name: pothole_20230514133335_0.jpg
+Class: Pothole
+Latitude: 18.011721714015252
+Longitude: -76.75185960104642
+Date: 2023-05-14
+Time: 13:33
+Location: Begonia Drive

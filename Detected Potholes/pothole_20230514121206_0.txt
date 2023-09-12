@@ -1,0 +1,7 @@
+Name: pothole_20230514121206_0.jpg
+Class: Pothole
+Latitude: 18.04043560503493
+Longitude: -76.76644670280409
+Date: 2023-05-14
+Time: 12:12
+Location: Jacks Hill Road

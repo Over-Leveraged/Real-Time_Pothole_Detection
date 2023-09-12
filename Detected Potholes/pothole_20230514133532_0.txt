@@ -1,0 +1,7 @@
+Name: pothole_20230514133532_0.jpg
+Class: Pothole
+Latitude: 18.000381904302465
+Longitude: -76.77442479692353
+Date: 2023-05-14
+Time: 13:35
+Location: Arthur Wint Drive

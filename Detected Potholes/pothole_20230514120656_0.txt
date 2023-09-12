@@ -1,0 +1,7 @@
+Name: pothole_20230514120656_0.jpg
+Class: Pothole
+Latitude: 17.999163110285473
+Longitude: -76.75968852451956
+Date: 2023-05-14
+Time: 12:06
+Location: Red Birch

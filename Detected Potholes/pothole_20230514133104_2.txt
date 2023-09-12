@@ -1,0 +1,7 @@
+Name: pothole_20230514133104_2.jpg
+Class: Pothole
+Latitude: 18.03868346986483
+Longitude: -76.7719576109471
+Date: 2023-05-14
+Time: 13:31
+Location: Temple Meads

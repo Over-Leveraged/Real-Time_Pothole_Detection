@@ -1,0 +1,7 @@
+Name: pothole_20230514122759_0.jpg
+Class: Pothole
+Latitude: 18.025646982880186
+Longitude: -76.77369732085917
+Date: 2023-05-14
+Time: 12:27
+Location: Paddington Terrace

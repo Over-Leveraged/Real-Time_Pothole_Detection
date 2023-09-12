@@ -1,0 +1,7 @@
+Name: pothole_20230514121658_0.jpg
+Class: Pothole
+Latitude: 18.015520607640457
+Longitude: -76.78290286735388
+Date: 2023-05-14
+Time: 12:16
+Location: Ardenne Road

@@ -1,0 +1,7 @@
+Name: pothole_20230514121659_0.jpg
+Class: Pothole
+Latitude: 18.010497993947336
+Longitude: -76.75586294110245
+Date: 2023-05-14
+Time: 12:16
+Location: Palmoral Avenue

@@ -1,0 +1,7 @@
+Name: pothole_20230514122336_0.jpg
+Class: Pothole
+Latitude: 18.01175722046319
+Longitude: -76.78344875581324
+Date: 2023-05-14
+Time: 12:23
+Location: Courtney Drive

@@ -1,0 +1,7 @@
+Name: pothole_20230514122641_1.jpg
+Class: Pothole
+Latitude: 18.041684291147263
+Longitude: -76.77614862917636
+Date: 2023-05-14
+Time: 12:26
+Location: Russell Heights

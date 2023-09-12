@@ -1,0 +1,7 @@
+Name: pothole_20230514121247_0.jpg
+Class: Pothole
+Latitude: 18.027686458822963
+Longitude: -76.78546624935215
+Date: 2023-05-14
+Time: 12:12
+Location: Dulwich Drive

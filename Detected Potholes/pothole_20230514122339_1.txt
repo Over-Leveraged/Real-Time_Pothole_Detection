@@ -1,0 +1,7 @@
+Name: pothole_20230514122339_1.jpg
+Class: Pothole
+Latitude: 18.045357877044008
+Longitude: -76.78125538019056
+Date: 2023-05-14
+Time: 12:23
+Location: Hall Crescent

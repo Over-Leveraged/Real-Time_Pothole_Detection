@@ -1,0 +1,7 @@
+Name: pothole_20230514133513_0.jpg
+Class: Pothole
+Latitude: 18.009619187897183
+Longitude: -76.7644435404433
+Date: 2023-05-14
+Time: 13:35
+Location: Rutland Drive

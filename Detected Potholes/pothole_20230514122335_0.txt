@@ -1,0 +1,7 @@
+Name: pothole_20230514122335_0.jpg
+Class: Pothole
+Latitude: 18.03802528253422
+Longitude: -76.76763212689666
+Date: 2023-05-14
+Time: 12:23
+Location: Shortridge Crescent

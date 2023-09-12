@@ -1,0 +1,7 @@
+Name: pothole_20230514133747_0.jpg
+Class: Pothole
+Latitude: 18.010402505380885
+Longitude: -76.76955001267159
+Date: 2023-05-14
+Time: 13:37
+Location: Hopedale Avenue

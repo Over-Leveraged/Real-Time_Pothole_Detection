@@ -1,0 +1,7 @@
+Name: pothole_20230514122205_0.jpg
+Class: Pothole
+Latitude: 18.026101472055032
+Longitude: -76.78371873711384
+Date: 2023-05-14
+Time: 12:22
+Location: Kings Drive

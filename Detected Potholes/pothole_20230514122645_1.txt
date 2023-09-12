@@ -1,0 +1,7 @@
+Name: pothole_20230514122645_1.jpg
+Class: Pothole
+Latitude: 18.00596579053523
+Longitude: -76.78036688610956
+Date: 2023-05-14
+Time: 12:26
+Location: Worthington Terrace

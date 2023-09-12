@@ -1,0 +1,7 @@
+Name: pothole_20230514122334_0.jpg
+Class: Pothole
+Latitude: 18.014731251776315
+Longitude: -76.76505597590058
+Date: 2023-05-14
+Time: 12:23
+Location: Wellington Way

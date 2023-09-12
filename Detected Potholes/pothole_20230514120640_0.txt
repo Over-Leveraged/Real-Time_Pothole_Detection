@@ -1,0 +1,7 @@
+Name: pothole_20230514120640_0.jpg
+Class: Pothole
+Latitude: 18.04641410947942
+Longitude: -76.75505155006654
+Date: 2023-05-14
+Time: 12:06
+Location: Unknown

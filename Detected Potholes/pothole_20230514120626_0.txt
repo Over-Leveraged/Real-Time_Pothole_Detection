@@ -1,0 +1,7 @@
+Name: pothole_20230514120626_0.jpg
+Class: Pothole
+Latitude: 17.998581058362163
+Longitude: -76.78889849855753
+Date: 2023-05-14
+Time: 12:06
+Location: Trevennion Road

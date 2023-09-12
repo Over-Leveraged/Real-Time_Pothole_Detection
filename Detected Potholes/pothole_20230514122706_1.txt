@@ -1,0 +1,7 @@
+Name: pothole_20230514122706_1.jpg
+Class: Pothole
+Latitude: 18.026284800127954
+Longitude: -76.7755728610851
+Date: 2023-05-14
+Time: 12:27
+Location: Kings House Avenue

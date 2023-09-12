@@ -1,0 +1,7 @@
+Name: pothole_20230514133546_0.jpg
+Class: Pothole
+Latitude: 18.024260979731526
+Longitude: -76.77544042535894
+Date: 2023-05-14
+Time: 13:35
+Location: Sandhurst Crescent

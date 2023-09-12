@@ -1,0 +1,7 @@
+Name: pothole_20230514133742_0.jpg
+Class: Pothole
+Latitude: 18.028377915126384
+Longitude: -76.75195234600633
+Date: 2023-05-14
+Time: 13:37
+Location: Forsythe Drive

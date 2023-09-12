@@ -1,0 +1,7 @@
+Name: pothole_20230514133525_0.jpg
+Class: Pothole
+Latitude: 18.045076886534968
+Longitude: -76.79230773979221
+Date: 2023-05-14
+Time: 13:35
+Location: Constant Spring Road

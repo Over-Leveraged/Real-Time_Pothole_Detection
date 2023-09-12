@@ -1,0 +1,7 @@
+Name: pothole_20230514122145_0.jpg
+Class: Pothole
+Latitude: 18.00063551854862
+Longitude: -76.78915205795535
+Date: 2023-05-14
+Time: 12:21
+Location: Norwood Avenue

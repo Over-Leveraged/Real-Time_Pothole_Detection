@@ -1,0 +1,7 @@
+Name: pothole_20230514121644_0.jpg
+Class: Pothole
+Latitude: 18.038086482534418
+Longitude: -76.78449365458742
+Date: 2023-05-14
+Time: 12:16
+Location: Arcadia Drive

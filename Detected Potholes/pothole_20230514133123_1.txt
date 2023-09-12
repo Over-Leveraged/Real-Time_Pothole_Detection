@@ -1,0 +1,7 @@
+Name: pothole_20230514133123_1.jpg
+Class: Pothole
+Latitude: 18.012639207235782
+Longitude: -76.7693909502975
+Date: 2023-05-14
+Time: 13:31
+Location: Mayfair Avenue

@@ -1,0 +1,7 @@
+Name: pothole_20230514122703_0.jpg
+Class: Pothole
+Latitude: 18.008384740109666
+Longitude: -76.77587728467365
+Date: 2023-05-14
+Time: 12:27
+Location: Easton Avenue

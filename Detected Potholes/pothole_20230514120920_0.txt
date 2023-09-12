@@ -1,0 +1,7 @@
+Name: pothole_20230514120920_0.jpg
+Class: Pothole
+Latitude: 18.02519065283143
+Longitude: -76.78670103443395
+Date: 2023-05-14
+Time: 12:09
+Location: Washington Drive

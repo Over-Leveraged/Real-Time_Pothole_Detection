@@ -1,0 +1,7 @@
+Name: pothole_20230514122147_0.jpg
+Class: Pothole
+Latitude: 18.040804545162864
+Longitude: -76.7783664733697
+Date: 2023-05-14
+Time: 12:21
+Location: Durie Drive

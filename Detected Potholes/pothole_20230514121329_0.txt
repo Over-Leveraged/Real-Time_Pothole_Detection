@@ -1,0 +1,7 @@
+Name: pothole_20230514121329_0.jpg
+Class: Pothole
+Latitude: 18.027410789456653
+Longitude: -76.7726894966443
+Date: 2023-05-14
+Time: 12:13
+Location: Dewsbury Avenue

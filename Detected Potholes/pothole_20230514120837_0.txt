@@ -1,0 +1,7 @@
+Name: pothole_20230514120837_0.jpg
+Class: Pothole
+Latitude: 18.004548844880247
+Longitude: -76.77804663675617
+Date: 2023-05-14
+Time: 12:08
+Location: Downer Avenue
